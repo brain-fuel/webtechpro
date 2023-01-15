@@ -1,4 +1,4 @@
-{:top-namespace "webtechpro"
+{:top-namespace "io.webtechpro"
  :interface-ns "interface"
  :default-profile-name "default"
  :compact-views #{}
