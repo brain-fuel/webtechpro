@@ -9,6 +9,11 @@ To get project info
 clojure -M:poly info
 ```
 
+For help:
+```
+clojure -M:poly help
+```
+
 The Polylith documentation can be found here:
 
 - The [high-level documentation](https://polylith.gitbook.io/polylith)
