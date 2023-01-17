@@ -1,5 +1,14 @@
 <img src="logo.png" width="30%" alt="Polylith" id="logo">
 
+# WebTechPro
+
+## Polylith
+
+To get project info
+```
+clojure -M:poly info
+```
+
 The Polylith documentation can be found here:
 
 - The [high-level documentation](https://polylith.gitbook.io/polylith)
@@ -8,6 +17,3 @@ The Polylith documentation can be found here:
 
 You can also get in touch with the Polylith Team on [Slack](https://clojurians.slack.com/archives/C013B7MQHJQ).
 
-<h1>webtechpro</h1>
-
-<p>Add your workspace documentation here...</p>
